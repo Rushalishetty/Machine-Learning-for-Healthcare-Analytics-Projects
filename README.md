@@ -9,12 +9,12 @@ This is the code repository for [Machine Learning for Healthcare Analytics Proje
 ## What is this book about?
 
 This book covers the following exciting features:
-* Explore super imaging and natural language processing (NLP) to classify DNA sequencing 
-* Detect cancer based on the cell information provided to the SVM 
-* Apply supervised learning techniques to diagnose autism spectrum disorder (ASD) 
-* Implement a deep learning grid and deep neural networks for detecting diabetes 
-* Analyze data from blood pressure, heart rate, and cholesterol level tests using neural networks 
-* Use ML algorithms to detect autistic disorders 
+* Explore super imaging and natural language processing (NLP) to classify DNA sequencing. 
+* Detect cancer based on the cell information provided to the SVM.
+* Apply supervised learning techniques to diagnose autism spectrum disorder (ASD). 
+* Implement a deep learning grid and deep neural networks for detecting diabetes .
+* Analyze data from blood pressure, heart rate, and cholesterol level tests using neural networks .
+* Use ML algorithms to detect autistic disorders .
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789536596) today!
 
